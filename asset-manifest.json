@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TIF/static/css/main.bf769013.css",
+    "main.js": "/TIF/static/js/main.ca8c101b.js",
+    "static/js/488.a96754d5.chunk.js": "/TIF/static/js/488.a96754d5.chunk.js",
+    "index.html": "/TIF/index.html",
+    "main.bf769013.css.map": "/TIF/static/css/main.bf769013.css.map",
+    "main.ca8c101b.js.map": "/TIF/static/js/main.ca8c101b.js.map",
+    "488.a96754d5.chunk.js.map": "/TIF/static/js/488.a96754d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf769013.css",
+    "static/js/main.ca8c101b.js"
+  ]
+}
