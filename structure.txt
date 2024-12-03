@@ -1,0 +1,42 @@
+Folder PATH listing
+Volume serial number is F8ED-0A43
+C:.
+³   .gitignore
+³   README.md
+³   structure.txt
+³   
+ÃÄÄÄproxy-server
+³       server.js
+³       
+ÃÄÄÄpublic
+³   ³   index.html
+³   ³   manifest.json
+³   ³   robots.txt
+³   ³   
+³   ÀÄÄÄIMG
+³           gradient.png
+³           
+ÀÄÄÄsrc
+    ³   App.css
+    ³   App.js
+    ³   App.test.js
+    ³   cryptocurrencies.js
+    ³   crypto_list.js
+    ³   index.css
+    ³   index.js
+    ³   LandingPage.js
+    ³   package.json
+    ³   reportWebVitals.js
+    ³   TrendChart.js
+    ³   
+    ÃÄÄÄCSS
+    ³       cryptocurrencies.css
+    ³       crypto_list.css
+    ³       landingpage.css
+    ³       
+    ÀÄÄÄIMG
+            bg_img.webp
+            bg_img_2.webp
+            gradient.png
+            tif-logo-png.png
+            

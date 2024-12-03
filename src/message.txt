@@ -1,0 +1,89 @@
+Shiba Inu (SHIB) - 0x2859e4544c4bb03966803b044a93563bd2d0dd4d
+ChainLink Token (LINK) - 0x514910771af9ca656af840dff83e8264ecf986ca
+Uniswap (UNI) - 0x1f9840a85d5af5bf1d1762f925bdaddc4201f984
+Pepe (PEPE) - 0x6982508145454ce325ddbe47a25d4ec3d2311933
+Fetch (FET) - 0xaea46a60368a7bd060eec7df8cba43b7ef41ad85
+OKB (OKB) - 0x75231F58b43240C9718Dd58B4967c5114342a86c
+Aave Token (AAVE) - 0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9
+Arbitrum (ARB) - 0x912ce59144191c1204e64559fe8253a0e49e6548
+Immutable X (IMX) - 0xf47e60a9943a1c1c2b9b2b9b2b9b2b9b2b9b2b9b
+Injective Token (INJ) - 0xe28b3b32b6c345a34ff64674606124dd5aceca30
+Render Token (RNDR) - 0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24
+VeChain (VEN) - 0xd850942ef8811f2a866692a623011bde52a462c1
+Graph Token (GRT) - 0xc944e90c64b2c07662a292be6244bdf05cda44a7
+Floki (FLOKI) - 0x43f11c02439e2736800433b4594994bd43cd066d
+Theta Token (THETA) - 0x3883f5e181fccaf8410fa61e12b59bad963fb645
+Maker (MKR) - 0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2
+Lido DAO Token (LDO) - 0x5a98fcbea516cf06857215779fd812ca3bef1b32
+Quant (QNT) - 0x4a220e6096b25eadb88358cb44068a3248254675
+Matic Token (MATIC) - 0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0
+Pendle (PENDLE) - 0x808507121b80c02388fad14726482e061b8da827
+ApeCoin (APE) - 0x4d224452801aced8b2f0aebe155379bb5d594381
+SuperVerse (SUPER) - 0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55
+Axelar (AXL) - 0x467719ad09025fcc6cf6f8311755809d45a5e5f3
+Ethereum Name Service (ENS) - 0xc18360217d8f7ab5e7c516566761ea12ce7f9d72
+ChiliZ (CHZ) - 0x3506424f91fd7b4cbb7dce0a5f0f7a5f6d5f7f7f
+Decentraland (MANA) - 0x0f5d2fb29fb7d3cfee444a200298f468908cc942
+Gnosis (GNO) - 0x6810e776880c02933d47db1b9fc05908e5386b96
+Safe Token (SAFE) - 0x45804880de22913dafe09f4980848ece6ecbaf78
+Synthetix Network Token (SNX) - 0xc011a72400e58ecd99ee497cf89e3775d4bd732f
+dYdX (DYDX) - 0x92d6c1e31e14520e676a687f0a93788b716beff5
+Dexe (DEXE) - 0xde4ee8057785a7e8e800db58f9784845a5c2cbd6
+Blur (BLUR) - 0x5283d291dbcf85356a21ba090e6db59121208b44
+IoTeX Network (IOTX) - 0x6fb3e0a217407efff7ca062d46c26e5d60a14d69
+Compound (COMP) - 0xc00e94cb662c3520282e6f5717214004a7f26888
+Arkham (ARKM) - 0x6e8c8f9d245e5c4a4b3a1d4f4e4e4e4e4e4e4e4e
+Livepeer Token (LPT) - 0x58b6a8a3302369daec383334672404ee733ab239
+ConstitutionDAO (PEOPLE) - 0x7a58c0be72be218b41c608b7fe7c5bb630736c71
+WOO Network (WOO) - 0x4691937a7508860f876c9c0a2a617e7d9e945d4b
+1INCH Token (1INCH) - 0x111111111117dc0aa78b770fa6a738034120c302
+Curve DAO Token (CRV) - 0xd533a949740bb3306d119cc777fa900ba034cd52
+Golem Network Token (GLM) - 0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429
+Chintai Exchange Token (CHEX) - 0x0d8775f648430679a709e98d2b0cb6250d2887ef
+ether.fi governance token (ETHFI) - 0x3e8a5d5b5a4d47a0bd74c2d9d9cf3cbf1e2f89a7
+HoloToken (HOT) - 0x6c6ee5e31d828de241282b9606c8e98ea48526e2
+Amp (AMP) - 0xfab46e002bbf0b4509813474841e0716e6730136
+Mask Network (MASK) - 0x69af81e73a73b40adf4f3d4223cd9b1ece623074
+Zilliqa (ZIL) - 0x05f4a42e251f2d52b8ed15e9fedaacd8e9b6b60f
+ZRX (ZRX) - 0xe41d2489571d322189246dafa5ebde1f4699f498
+MX Token (MX) - 0x2e80d6b408107aa3371dc441e744fb92dd88a31b
+ELF (ELF) - 0xbf2179859fc6d5bee9bf9158632dc51678a4100e
+Olympus (OHM) - 0x64aa3364f17ee3b08c49044dc6d6c9a1117f3de2
+Aragon Network Token (ANT) - 0xa117000000f279d81a1d3cc75430faa017fa5a2e
+CoinEx Token (CET) - 0x6d6f69716fd07e9e9de9c8a8b6ad25a08b6d09f2
+Metis Token (Metis) - 0xdea67845a51e24461d5fed8084e69b426af3d5db
+EnjinCoin (ENJ) - 0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c
+Ankr Network (ANKR) - 0x8290333cef9e6d528dd5618fb97a76f268f3edd4
+BAT (BAT) - 0x0d8775f648430679a709e98d2b0cb6250d2887ef
+Trace (TRAC) - 0xaa7a9ca7a4810e7e0e6faef2b0c3b1e3d7bafc8c
+Tribe (TRIBE) - 0xc7283b66eb1eb5fb86327f08e1b5816b0720212b
+Rocket Pool (RPL) - 0xd33526068d116ce69f19a9ee46f0bd304f21a51f
+Threshold Network Token (T) - 0xcdf7028ceab81fa0c6971208e83fa7872994bee5
+Illuvium (ILV) - 0x5e6b6d9abad9093fdc861ea1600eba1b355cd940
+SingularityNET Token (AGIX) - 0x5b7533812759b45c2b44c19e320ba2cd2681b542
+NXM (NXM) - 0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b
+UMA Voting Token v1 (UMA) - 0x04fa0d235c4abf4bcf4787af4cf447de572ef828
+Big Time (BIGTIME) - 0x64bc2ca1be492be7185faa2c8835d9b824c8a194
+PAAL AI ($PAAL) - 0x14fee680690900ba0cccfc76ad70fd1b95d10e16
+SKALE (SKL) - 0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7
+API3 (API3) - 0x0b38210ea11411557c13457d4da7dc6ea731b88a
+Banana (BANANA) - 0x5d47baba0d66083c52009271faf3f50dcc01023c
+SPACE ID (ID) - 0x0f1e4d64d0a1f1a3c8e0b2a1e1e1e1e1e1e1e1e
+Instadapp (INST) - 0x6f40d4a6237c257fff2db00fa0510deeecd303eb
+GoMining Token (GMT) - 0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429
+Rollbit Coin (RLB) - 0x0f9e4d49f25de22c2202af916b681fbb3790497b
+COTI Token (COTI) - 0xddb3422497e61e13543bea06989c0789117555c5
+SwissBorg (CHSB) - 0xba9d4199fab4f26efe3551d490e3821486f135ba
+yearn.finance (YFI) - 0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e
+Swipe (SXP) - 0x8ce9137d8bd2bd1106728aafb5315e2ccdf73ad6
+Convex Token (CVX) - 0x4e3fbd56cd56c3e1a6e4a6a4f77d2aeb7fada6e
+Poly Ontology Token (pONT) - 0x5d8d9f5b96f4438195f78b21c64e42a48d2c57c0
+BandToken (BAND) - 0xba11d3a85d1548e6ce4fd1017b9ce444bba5b7e6
+Tellor Tributes (TRB) - 0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0
+Audius (AUDIO) - 0x18aaa7115705e8be94bffebde57af9bfc265b998
+Ocean Token (OCEAN) - 0x967da4048cd07ab37855c090aaf366e4ce1b9f48
+LoopringCoin V2 (LRC) - 0xbbbbca6a901c926f240b89eacb641d8aec7aeafd
+ArcBlock (ABT) - 0xb98d4c97425d9908e66e53a6fdf673acca0be986
+Gluwa Creditcoin Vesting Token (G-CRE) - 0x6fc13eace26590b80cccab1ba5d51890577d83b2
+Across Protocol Token (ACX) - 0xac0c7e3d9b914d508e94c33d73ea5b9b9ae1d093
+Chroma (CHR) - 0x915044526758533dfb918eceb6e44bc21632060d
